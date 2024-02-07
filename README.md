@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploiting and little much coding 
 - 🌱 I’m currently learning React..
 - 💞️ I’m looking to collaborate on /.\
-- 📫 How to reach me . I am anyonyamus 
+- 📫 How to reach me . You can't
 - 😄 Pronouns: Biki, Kalki, jakas etc...
 - ⚡ Fun fact: i am great learner and i know how to find solution 
 
