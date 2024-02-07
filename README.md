@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikas-Maurya-hack
-- 👀 I’m interested in exlopting and little much coding 
+- 👀 I’m interested in exploiting and little much coding 
 - 🌱 I’m currently learning React..
 - 💞️ I’m looking to collaborate on /.\
 - 📫 How to reach me . I am anyonyamus 
