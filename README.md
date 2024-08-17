@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploiting and little much coding 
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on web exploits or Bug-hunting 
-- 📫 How to reach me . > vikasmaurya016728@gmail.com  
+- 📫 How to reach me . > vikasmaurya916728@gmail.com  
 - 😄 Pronouns: root.
 - ⚡ Fun fact: i am great learner and i know how to find solution 
 
