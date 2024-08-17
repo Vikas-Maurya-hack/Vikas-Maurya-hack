@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Vikas-Maurya-hack
 - 👀 I’m interested in exploiting and little much coding 
-- 🌱 I’m currently learning React..
-- 💞️ I’m looking to collaborate on /.\
-- 📫 How to reach me . You can't
-- 😄 Pronouns: Biki, Kalki, jakas etc...
+- 🌱 I’m currently learning new things
+- 💞️ I’m looking to collaborate on web exploits or Bug-hunting 
+- 📫 How to reach me . > vikasmaurya@gmail.com  
+- 😄 Pronouns: root.
 - ⚡ Fun fact: i am great learner and i know how to find solution 
 
 <!---
